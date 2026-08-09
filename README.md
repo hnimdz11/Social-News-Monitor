@@ -3,6 +3,7 @@
 **Social News Monitor** là ứng dụng tự động theo dõi bài đăng mới trên **X (Twitter)**, tóm tắt và biên tập tin tức thông minh bằng **Google Gemini AI**, sau đó tự động gửi thông báo trực tiếp đến **Telegram Channel / Group**.
 
 Ứng dụng hỗ trợ cả giao diện **GUI** trực quan và chế độ **Headless CLI** tối ưu để chạy 24/7 trên Cloud VPS (Google Cloud, AWS, DigitalOcean,...).
+<img width="1335" height="953" alt="image" src="https://github.com/user-attachments/assets/0d35c94b-45f0-4e85-8520-252bf90b103b" />
 
 ---
 
