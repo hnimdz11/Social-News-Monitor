@@ -26,7 +26,7 @@
 
 ### 2. Cài đặt dependencies
 ```bash
-git clone https://github.com/<your-username>/SocialNewsMonitor.git
+git clone https://github.com/hnimdz11/SocialNewsMonitor.git
 cd SocialNewsMonitor
 pip install httpx feedparser python-telegram-bot google-genai customtkinter
 ```
